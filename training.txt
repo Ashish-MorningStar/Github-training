@@ -8,6 +8,8 @@ Remote : We can go to commits and then select a particular file to check history
 
 Versioning: Once we commit our changes to the files, that is saved as a version of the repo.
 
+Created New Branch: Named new-feature
+
 For Exploring history: We can use 
 git log --oneline --graph --decorate --all
 git reflog
