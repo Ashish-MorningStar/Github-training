@@ -13,3 +13,6 @@ Created New Branch: Named new-feature
 For Exploring history: We can use 
 git log --oneline --graph --decorate --all
 git reflog
+
+To compare between file:
+git diff -- filename[In our case training.txt]
