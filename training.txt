@@ -16,3 +16,6 @@ git reflog
 
 To compare between file:
 git diff -- filename[In our case training.txt]
+
+To compare between branches:
+git diff main origin/main
