@@ -1,1 +1,8 @@
 This file is created for training purpose!
+
+Adding text to check diff command.
+
+Project History - 
+Locally : we can use "git log". 
+Remote : We can go to commits and then select a particular file to check history.
+
