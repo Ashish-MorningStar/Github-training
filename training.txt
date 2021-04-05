@@ -20,6 +20,9 @@ git diff -- filename[In our case training.txt]
 ** To compare between branches:
 git diff main origin/main
 
+** Temporarily switch to a particular commit:
+# git checkout commit_id
+
 ** Delete Unpublished commit:
 # git reset --soft commit_id
 
