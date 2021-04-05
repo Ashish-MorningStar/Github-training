@@ -24,6 +24,7 @@ git diff main origin/main
 # git checkout commit_id
 
 ** Delete Unpublished commit:
+# git reset HEAD~1 [delete last unpushed commit]
 # git reset --soft commit_id
 
 # git reset --hard commit_id - We can use stash 
